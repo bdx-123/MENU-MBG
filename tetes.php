@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu</title>
+</head>
+<body>
+    <center>
+        <h1>MENU HARI INI</h1>
+        <H5>BABI RICA-RICA</H5>
+        <H5>NASI PUTIH</H5>
+        <H5>SAYUR KOLW</H5>
+        <H5>TEMPE/TAU</H5>
+    </center>
+    
+</body>
+</html>
